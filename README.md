@@ -1,7 +1,7 @@
 # House-Price-Prediction
-# Introduction: 
+# Introduction
 House price forecasting is an important topic of real estate. The literature attempts to derive useful knowledge from historical data of property markets. Machine learning techniques are applied to analyse historical property transactions in Melbourne to discover useful models for house buyers and sellers.
-# Aim:
+# Aim
 •	Create an effective price prediction model
 •	Validate the model’s prediction accuracy
 •	Identify the important home price attributes which feed the model’s predictive power.
